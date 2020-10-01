@@ -1,13 +1,13 @@
 Description: Think Like an Expert			
 			
-Please cite the following references if you use these data:			
+Please cite the following reference if you use these data:			
 			
 "Think Like an Expert: Neural Alignment Predicts Understanding in Students Taking an Introduction to Computer Science Course (2020). Meir Meshulam, Liat Hasenfratz, Hanna Hillman, Yun-Fei Liu, Mai Nguyen, Kenneth A. Norman, Uri Hasson."			
 bioRxiv 2020.05.05.079384; doi: https://doi.org/10.1101/2020.05.05.079384			
 			
 This dataset contains data from 20 'student' and 5 'expert' participants. Students enrolled in an introduction to computer science course underwent six fMRI scanning sessions throughout the course. During the first five sessions, students were shown course lecture videos. On the final session, students were shown five recaps with highlights from previous weeks. In addition, participants were given a self-paced final exam in which they were asked to give verbal responses to visually presented questions. Experts underwent the final scan only.	
 
-At the beginning and end of each task, we appended 20-30 seconds of unrelated ìfillerî audiovisual clips (from YouTube ìoddly satisfyingî compilations, featuring, for example, objects being assembled neatly). The corresponding TRs were trimmed and are not included in the data.
+At the beginning and end of each task, we appended 20-30 seconds of unrelated ‚Äúfiller‚Äù audiovisual clips (from YouTube ‚Äúoddly satisfying‚Äù compilations, featuring, for example, objects being assembled neatly). The corresponding TRs were trimmed and are not included in the data.
 
 T1 scans were obtained in every session. High definition T1 scans were obtained on ses-wk2 (students) and ses-wk6 (experts).
 			
@@ -15,7 +15,7 @@ Behavioral data about the final exam is provided in the 'sourcedata' folder. Res
 
 A summary of the available task files is provided below.
 	
-Tasks	    Description	        Lecture	                Number of TRs
+Task	            Description	        Lecture	                     Number of TRs
 wk1_vid1	    Lecture segment	Conditionals & Loops	173
 wk1_vid2	    Lecture segment	Conditionals & Loops	304
 wk1_vid3	    Lecture segment	Conditionals & Loops	161
