@@ -13,7 +13,7 @@ Behavioral data about the final exam is provided in the 'sourcedata' folder. Res
 
 A summary of the available task files is provided below.
 	
-Tasks	            Description	        Lecture	                Number of TRs
+Task	            Description	        Lecture	                     Number of TRs
 wk1_vid1	    Lecture segment	Conditionals & Loops	173
 wk1_vid2	    Lecture segment	Conditionals & Loops	304
 wk1_vid3	    Lecture segment	Conditionals & Loops	161
@@ -40,4 +40,4 @@ wk6_recap2	    Recap	                Functions & Libraries   98
 wk6_recap3	    Recap	                Abstract Data Types	    97
 wk6_recap4	    Recap	                Performance	            88
 wk6_recap5	    Recap	                Theory of computing	    95
-wk6_placement  Exam	        N/A	                        N/A
+wk6_placement  Exam	              N/A	                        N/A
