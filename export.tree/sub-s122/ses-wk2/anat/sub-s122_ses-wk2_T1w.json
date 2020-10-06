@@ -1,0 +1,13 @@
+{
+    "EchoTime": 0.00298,
+    "FlipAngle": 9.0,
+    "InstitutionAddress": "Stadium 1952,Princeton,NJ,US,08544",
+    "InstitutionName": "Princeton University",
+    "MagneticFieldStrength": 3.0,
+    "Manufacturer": "SIEMENS",
+    "ManufacturersModelName": "Prisma",
+    "PhaseEncodingDirection": "i-",
+    "RepetitionTime": 2.3,
+    "ScanningSequence": "['GR', 'IR']",
+    "SequenceName": "*tfl3d1_16ns"
+}
