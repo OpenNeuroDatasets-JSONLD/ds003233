@@ -14,4 +14,31 @@ Behavioral data about the final exam is provided in the 'sourcedata' folder. Res
 
 A summary of the available task files is provided below.
 	
-Meshulam M, Hasenfratz L, Hillman H, Liu Y-F, Nguyen M, Norman KA, Hasson U. Neural alignment predicts learning outcomes in students taking an introduction to computer science course. Nat Commun 12, 1922 (2021). https://doi.org/10.1038/s41467-021-22202-3
+Task	            Description	        Lecture	                     Number of TRs
+wk1_vid1	    Lecture segment	Conditionals & Loops	173
+wk1_vid2	    Lecture segment	Conditionals & Loops	304
+wk1_vid3	    Lecture segment	Conditionals & Loops	161
+wk1_vid4	    Lecture segment	Conditionals & Loops	289
+wk1_vid5	    Lecture segment	Conditionals & Loops	319
+wk2_vid1	    Lecture segment	Functions & Libraries	414
+wk2_vid2	    Lecture segment	Functions & Libraries	449
+wk2_vid3	    Lecture segment	Functions & Libraries	310
+wk3_vid1	    Lecture segment	Abstract Data Types	    	183
+wk3_vid2	    Lecture segment	Abstract Data Types	    	456
+wk3_vid3	    Lecture segment	Abstract Data Types	    	332
+wk3_vid4	    Lecture segment	Abstract Data Types	    	113
+wk4_vid1	    Lecture segment	Performance	            	313
+wk4_vid2	    Lecture segment	Performance	            	299
+wk4_vid3	    Lecture segment	Performance	            	321
+wk4_vid4	    Lecture segment	Performance	            	270
+wk5_vid1	    Lecture segment	Theory of computing	146
+wk5_vid2	    Lecture segment	Theory of computing	251
+wk5_vid3	    Lecture segment	Theory of computing	290
+wk5_vid4	    Lecture segment	Theory of computing	367
+wk5_vid5	    Lecture segment	Theory of computing	145
+wk6_recap1	    Recap	        	Conditionals & Loops	99
+wk6_recap2	    Recap	        	Functions & Libraries	98
+wk6_recap3	    Recap	        	Abstract Data Types		97
+wk6_recap4	    Recap	        	Performance			88
+wk6_recap5	    Recap	       	Theory of computing	95
+wk6_placement	Exam	        	N/A	                    		N/A
