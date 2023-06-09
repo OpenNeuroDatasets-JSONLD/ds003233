@@ -1,19 +1,47 @@
-{ 
+{
   "participant_id": {
     "Description": "Unique participant label",
-    "Units": "n/a"
-  },  
+    "Units": "n/a",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:ParticipantID",
+        "Label": ""
+      }
+    }
+  },
   "gender": {
     "Description": "Participant gender",
     "Units": "n/a",
     "Levels": {
       "F": "Female",
       "M": "Male"
+    },
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Sex",
+        "Label": ""
+      },
+      "Levels": {
+        "F": {
+          "TermURL": "snomed:248152002",
+          "Label": ""
+        },
+        "M": {
+          "TermURL": "snomed:248153007",
+          "Label": ""
+        }
+      }
     }
   },
   "age": {
     "Description": "Participant age (years)",
-    "Units": "years"
+    "Units": "years",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Age",
+        "Label": ""
+      }
+    }
   },
   "group": {
     "Description": "Participant group label",
@@ -37,6 +65,6 @@
     "Levels": {
       "y": "Incomplete dataset",
       "n": "Complete dataset"
-    } 
+    }
   }
 }
